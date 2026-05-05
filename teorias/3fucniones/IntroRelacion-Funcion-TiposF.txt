@@ -1,0 +1,45 @@
+APU- ALGEBRA 1- 2025
+Producto Cartesiano
+Se define a partir de la multiplicacion de mi cantidad de valores 
+|AxB|= n1()xn2()==para definir mi cardinalidad
+
+no hay conmutatividad entre dos conjuntos por que no es lo mismo A*B que B * A
+
+el orden de llas duplas al ordenadas no importa el orden si quien va primero
+
+(x,y) se presentara asi en el y en el eje de mi ordenada (eje y ) y mi x en mi absiza (eje de las x)
+
+la representacion grafica se suele usar con numeros 
+
+la cardinalidad de esos productos cartesionos sera igual eso si pero no es igual el producto cartecionao
+
+tenemos que saber cuando son realciones 
+mi dominos serai los primeros elementos 
+y codomino seria mi segudo selementos 
+
+Relacion inversa R^-1 
+ sera la inversa de mis pares ordenados orifinales 
+es la mis la cardinalidad
+y complementarias :las que no estan en mi relacion las que faltan en R
+si se suma la cardinalidad de R original tiene que dar la cardinalidad de mis dos conjuntos 
+
+Funcion : 
+
+f:A->B
+
+conjuntos X Y (no vacios)
+
+condicion de existencia dice que solo tenga una flecha a mi y y tendra : que tenga una flecha en todos sus elementos 
+unicidad + q en mi x tomo dos valores de mi y 
+Conceptos IMPORTANTES EN mi diapo 36....!!!
+
+con Z->Z podemos representar solo marcar los puntos 
+con R->R podemos representar con una linea conectando mis puntso 
+
+cuando trabajamos con raiz de x se puede redefinir para adpatar y que solo trabajemos con numeros resales positivos para poderr hacer mi graficas 
+
+Suma de funciones
+
+
+
+

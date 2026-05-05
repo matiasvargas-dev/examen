@@ -1,0 +1,33 @@
+Algrebra1 - APU -2025
+
+Repaso de expresion Algebraica Racional Entera 
+Funcion Dominio te dice como tendrias que marcar los domions que seran los valores que tomara mi funcion y te va dando para el diferente tipo de funciones fracionaraias o algebraicas se ve intervalor y inecuaciones 
+
+
+Funcion parte entera : esta definida por intervalos, es discontinua 
+
+funcion techo es el mayor o igual que x 
+funcion suelo||(psio) es el numero entero menor o igual que x
+
+en intervalo esta abierta(left) y cerrada(right)
+
+numero negativos 
+
+decraciente 0 creciente
+<= 0 =>
+
+Funcion Suelo:funcion suelo es el numero entero menor o igual que x
+y = f(x) = [x]//sin los palitos de arriva como si fuese el suelo
+
+Funcion techo : funcion techo es el numero entero mayor o igual que x
+y = f(x) = [x]//sin los palitos de abajo como si fuese el techo
+
+en una funcion con decimales siempre mi exacto sera mi techo o mi piso 
+
+cunado sea exacto se tomara el mismo entero como mi piso y techo 
+
+
+composicion de funciones:
+
+se basa en remplazar mi x por otra funcion para comprobar igualdad (fog)
+si luego de remplazar se haya una equivalencia sera commutativa. Dependiendo de mis dos remplago (f o g ) (g o f)

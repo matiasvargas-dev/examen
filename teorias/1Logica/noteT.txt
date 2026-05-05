@@ -1,0 +1,43 @@
+el o exclusivo  sera para poder solo elegir una opcion pero no a pasan a la vez
+ la implicacion es la mas difcil sirve tener la notacion natural par ano confundir 
+
+
+p equivalencia cuando hago mi tabla de verdad me da los mismos valroes entonces seria implicaciones deribadas 
+formulas proposicionales 
+tabla verdad con 2^n  filas para derteminar 
+de p q r sera 2^3 = 8 filas 
+
+partimos de las posiciones individules 
+presedencia 
+
+negacion 
+disyumcion y conjuncion 
+impicacion y si solo si 
+
+tautologia : cuado solo los valores sean V
+
+contradicciones cuando sean F
+contigencias : convinacion de V y F
+
+el el signo de congruencia es el signo de equivalentes 
+son equivaletntes cuando son tautologia (=-)
+la ley de morgan es la mas usada 
+a veces comviene pasar a usstema para manejar mejro mis impicaciones segun el contexto 
+
+las leyes seran para intepretar si segun unkos requisitos se podra poner v o f directamente 
+
+
+un preficado es unaco tengo las variables definidas osea que se remplaza esa x
+
+cuantificador? cuantificador universal  A para todo z // E cuantificador existencial 
+
+
+inferencias
+
+reglas d einferecncias mas usadas
+modus ponens
+
+la particularizacion existencial casi no existe
+reglas de inferencia para sentencias cuantificadas son para ciertas ocasciones 
+
+
